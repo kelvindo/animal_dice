@@ -139,6 +139,7 @@ class Game:
       print "---------------------------------------"
 
 
+    print "Dice Distribution"
     print self.dice_dist
 
 game = Game(NUM_ITERATIONS)
